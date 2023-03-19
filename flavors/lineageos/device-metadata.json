@@ -1,6 +1,6 @@
 {
   "DRG": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "6.1 Plus",
     "variant": "userdebug",
@@ -20,36 +20,71 @@
     "variant": "userdebug",
     "vendor": "fairphone"
   },
+  "FP4": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Fairphone 4",
+    "variant": "userdebug",
+    "vendor": "fairphone"
+  },
+  "G": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "G",
+    "variant": "userdebug",
+    "vendor": "10or"
+  },
+  "Mi439": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Redmi 7A / 8 / 8A / 8A Dual",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
+  },
+  "Mi8917": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Redmi 4A / 5A / [Note 5A / Y1 - Lite]",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
+  },
+  "Mi8937": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Redmi 3S / 3X / 4(X) / [Note 5A / Y1 - Prime]",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
+  },
   "PL2": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "6.1 (2018)",
     "variant": "userdebug",
     "vendor": "nokia"
   },
   "TP1803": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mini 5G",
     "variant": "userdebug",
     "vendor": "nubia"
   },
   "X00TD": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Zenfone Max Pro M1",
     "variant": "userdebug",
     "vendor": "asus"
   },
   "Z01R": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Zenfone 5Z (ZS620KL)",
     "variant": "userdebug",
     "vendor": "asus"
   },
   "a52q": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Galaxy A52 4G",
     "variant": "userdebug",
@@ -63,7 +98,7 @@
     "vendor": "samsung"
   },
   "a72q": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Galaxy A72",
     "variant": "userdebug",
@@ -91,14 +126,14 @@
     "vendor": "motorola"
   },
   "akari": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Xperia XZ2",
     "variant": "userdebug",
     "vendor": "sony"
   },
   "akatsuki": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Xperia XZ3",
     "variant": "userdebug",
@@ -126,21 +161,28 @@
     "vendor": "xiaomi"
   },
   "aura": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Phone 2",
     "variant": "userdebug",
     "vendor": "razer"
   },
   "aurora": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Xperia XZ2 Premium",
     "variant": "userdebug",
     "vendor": "sony"
   },
+  "avicii": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Nord",
+    "variant": "userdebug",
+    "vendor": "oneplus"
+  },
   "axolotl": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "SHIFT6mq",
     "variant": "userdebug",
@@ -154,28 +196,49 @@
     "vendor": "oneplus"
   },
   "barbet": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 5a",
     "variant": "userdebug",
     "vendor": "google"
   },
+  "bardock": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Aquaris X",
+    "variant": "userdebug",
+    "vendor": "bq"
+  },
+  "bardockpro": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Aquaris X Pro",
+    "variant": "userdebug",
+    "vendor": "bq"
+  },
   "beckham": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto z3 play",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "berlin": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "edge 20",
     "variant": "userdebug",
     "vendor": "motorola"
   },
+  "berlna": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "edge 2021",
+    "variant": "userdebug",
+    "vendor": "motorola"
+  },
   "beryllium": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Poco F1",
     "variant": "userdebug",
@@ -209,6 +272,13 @@
     "variant": "userdebug",
     "vendor": "samsung"
   },
+  "bluejay": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Pixel 6a",
+    "variant": "userdebug",
+    "vendor": "google"
+  },
   "blueline": {
     "branch": "lineage-19.1",
     "lineage_recovery": false,
@@ -224,7 +294,7 @@
     "vendor": "google"
   },
   "bramble": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 4a 5G",
     "variant": "userdebug",
@@ -252,21 +322,28 @@
     "vendor": "motorola"
   },
   "channel": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto g7 play",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "cheeseburger": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "5",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
+  "cheetah": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Pixel 7 Pro",
+    "variant": "userdebug",
+    "vendor": "google"
+  },
   "chef": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "one power",
     "variant": "userdebug",
@@ -279,8 +356,15 @@
     "variant": "userdebug",
     "vendor": "razer"
   },
+  "chiron": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Mi MIX 2",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
+  },
   "coral": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 4 XL",
     "variant": "userdebug",
@@ -315,14 +399,14 @@
     "vendor": "samsung"
   },
   "deadpool": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "ADT-3",
     "variant": "userdebug",
     "vendor": "google"
   },
   "dipper": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi 8",
     "variant": "userdebug",
@@ -343,28 +427,28 @@
     "vendor": "oneplus"
   },
   "dubai": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "edge 30",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "dumpling": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "5T",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "enchilada": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "6",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "equuleus": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi 8 Pro",
     "variant": "userdebug",
@@ -378,21 +462,21 @@
     "vendor": "nextbit"
   },
   "evert": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto g6 plus",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "fajita": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "6T",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "flame": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 4",
     "variant": "userdebug",
@@ -440,8 +524,15 @@
     "variant": "userdebug",
     "vendor": "xiaomi"
   },
+  "griffin": {
+    "branch": "lineage-18.1",
+    "lineage_recovery": false,
+    "name": "moto z",
+    "variant": "userdebug",
+    "vendor": "motorola"
+  },
   "grus": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi 9 SE",
     "variant": "userdebug",
@@ -461,29 +552,36 @@
     "variant": "userdebug",
     "vendor": "samsung"
   },
+  "gtowifi": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Galaxy Tab A 8.0 2019 (Wi-Fi)",
+    "variant": "userdebug",
+    "vendor": "samsung"
+  },
   "gts4lv": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Galaxy Tab S5e (LTE)",
     "variant": "userdebug",
     "vendor": "samsung"
   },
   "gts4lvwifi": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Galaxy Tab S5e (Wi-Fi)",
     "variant": "userdebug",
     "vendor": "samsung"
   },
   "guacamole": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "7 Pro",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "guacamoleb": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "7",
     "variant": "userdebug",
@@ -517,6 +615,13 @@
     "variant": "userdebug",
     "vendor": "lge"
   },
+  "h932": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "V30 (T-Mobile)",
+    "variant": "userdebug",
+    "vendor": "lge"
+  },
   "h990": {
     "branch": "lineage-18.1",
     "lineage_recovery": false,
@@ -531,8 +636,15 @@
     "variant": "userdebug",
     "vendor": "motorola"
   },
-  "heart": {
+  "haydn": {
     "branch": "lineage-19.1",
+    "lineage_recovery": false,
+    "name": "Mi 11i / Redmi K40 Pro / Redmi K40 Pro+ / Mi 11X Pro",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
+  },
+  "heart": {
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Z5 Pro GT",
     "variant": "userdebug",
@@ -567,28 +679,28 @@
     "vendor": "samsung"
   },
   "hotdog": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "7T Pro",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "hotdogb": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "7T",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "instantnoodle": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "8",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "instantnoodlep": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "8 Pro",
     "variant": "userdebug",
@@ -636,22 +748,29 @@
     "variant": "userdebug",
     "vendor": "samsung"
   },
+  "joan": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "V30 (Unlocked)",
+    "variant": "userdebug",
+    "vendor": "lge"
+  },
   "kane": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "one vision / p50",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "kebab": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "8T",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "kiev": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto g 5G",
     "variant": "userdebug",
@@ -728,25 +847,53 @@
     "vendor": "samsung"
   },
   "lake": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto g7 plus",
     "variant": "userdebug",
     "vendor": "motorola"
   },
+  "lancelot": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Redmi 9",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
+  },
   "lemonade": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "9",
     "variant": "userdebug",
     "vendor": "oneplus"
   },
   "lemonadep": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "9 Pro",
     "variant": "userdebug",
     "vendor": "oneplus"
+  },
+  "lemonades": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "9R",
+    "variant": "userdebug",
+    "vendor": "oneplus"
+  },
+  "liber": {
+    "branch": "lineage-19.1",
+    "lineage_recovery": false,
+    "name": "one fusion+",
+    "variant": "userdebug",
+    "vendor": "motorola"
+  },
+  "lisa": {
+    "branch": "lineage-19.1",
+    "lineage_recovery": false,
+    "name": "11 Lite 5G NE / 11 Lite NE 5G / Mi 11 LE",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
   },
   "lmi": {
     "branch": "lineage-19.1",
@@ -775,6 +922,13 @@
     "name": "PH-1",
     "variant": "userdebug",
     "vendor": "essential"
+  },
+  "merlinx": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Redmi Note 9",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
   },
   "mermaid": {
     "branch": "lineage-19.1",
@@ -805,7 +959,7 @@
     "vendor": "motorola"
   },
   "nairo": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto g 5G plus",
     "variant": "userdebug",
@@ -826,28 +980,28 @@
     "vendor": "xiaomi"
   },
   "nio": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "edge s / moto g100",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "nx563j": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Z17",
     "variant": "userdebug",
     "vendor": "nubia"
   },
   "nx611j": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Z18 Mini",
     "variant": "userdebug",
     "vendor": "nubia"
   },
   "ocean": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto g7 power",
     "variant": "userdebug",
@@ -867,17 +1021,38 @@
     "variant": "userdebug",
     "vendor": "oneplus"
   },
+  "oriole": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Pixel 6",
+    "variant": "userdebug",
+    "vendor": "google"
+  },
+  "panther": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Pixel 7",
+    "variant": "userdebug",
+    "vendor": "google"
+  },
   "payton": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto x4",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "pdx203": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Xperia 1 II",
+    "variant": "userdebug",
+    "vendor": "sony"
+  },
+  "pdx206": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Xperia 5 II",
     "variant": "userdebug",
     "vendor": "sony"
   },
@@ -889,7 +1064,7 @@
     "vendor": "sony"
   },
   "polaris": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi MIX 2S",
     "variant": "userdebug",
@@ -910,7 +1085,7 @@
     "vendor": "nvidia"
   },
   "pro1": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pro1",
     "variant": "userdebug",
@@ -924,25 +1099,39 @@
     "vendor": "motorola"
   },
   "pyxis": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi CC 9 / Mi 9 Lite",
     "variant": "userdebug",
     "vendor": "xiaomi"
   },
   "racer": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "edge",
     "variant": "userdebug",
     "vendor": "motorola"
   },
+  "raven": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Pixel 6 Pro",
+    "variant": "userdebug",
+    "vendor": "google"
+  },
   "redfin": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 5",
     "variant": "userdebug",
     "vendor": "google"
+  },
+  "renoir": {
+    "branch": "lineage-19.1",
+    "lineage_recovery": false,
+    "name": "Mi 11 Lite 5G",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
   },
   "rhannah": {
     "branch": "lineage-18.1",
@@ -952,7 +1141,7 @@
     "vendor": "motorola"
   },
   "river": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "moto g7",
     "variant": "userdebug",
@@ -987,7 +1176,7 @@
     "vendor": "samsung"
   },
   "sagit": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi 6",
     "variant": "userdebug",
@@ -1029,21 +1218,21 @@
     "vendor": "sony"
   },
   "sunfish": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 4a",
     "variant": "userdebug",
     "vendor": "google"
   },
   "surya": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "POCO X3 NFC",
     "variant": "userdebug",
     "vendor": "xiaomi"
   },
   "taimen": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 2 XL",
     "variant": "userdebug",
@@ -1057,14 +1246,14 @@
     "vendor": "xiaomi"
   },
   "troika": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "one action",
     "variant": "userdebug",
     "vendor": "motorola"
   },
   "ursa": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi 8 Explorer Edition",
     "variant": "userdebug",
@@ -1081,6 +1270,13 @@
     "branch": "lineage-19.1",
     "lineage_recovery": false,
     "name": "POCO X3 Pro",
+    "variant": "userdebug",
+    "vendor": "xiaomi"
+  },
+  "vela": {
+    "branch": "lineage-20.0",
+    "lineage_recovery": false,
+    "name": "Mi CC9 Meitu Edition",
     "variant": "userdebug",
     "vendor": "xiaomi"
   },
@@ -1106,14 +1302,14 @@
     "vendor": "lge"
   },
   "wade": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "TV Box (4K)",
     "variant": "userdebug",
     "vendor": "dynalink"
   },
   "walleye": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Pixel 2",
     "variant": "userdebug",
@@ -1127,14 +1323,14 @@
     "vendor": "leeco"
   },
   "xmsirius": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Mi 8 SE",
     "variant": "userdebug",
     "vendor": "xiaomi"
   },
   "xz2c": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Xperia XZ2 Compact",
     "variant": "userdebug",
@@ -1162,7 +1358,7 @@
     "vendor": "sony"
   },
   "zippo": {
-    "branch": "lineage-19.1",
+    "branch": "lineage-20.0",
     "lineage_recovery": false,
     "name": "Z6 Pro",
     "variant": "userdebug",
