@@ -136,6 +136,8 @@ def fetch_vendor_dirs(metadata: Any,
         # XXX: HACK
         if vendor == "xiaomi":
             url = "https://gitlab.com/the-muppets/proprietary_vendor_xiaomi.git/"
+        elif vendor == "10or":
+            url = f"{url_base}/proprietary_vendor_10or_G"
         else:
             url = f"{url_base}/proprietary_{relpath.replace('/', '_')}"
 

@@ -40,6 +40,7 @@ def fetch_metadata(
 
         vendor = data['oem']
         vendor = vendor.lower()
+        vendor = vendor.replace('.', '')
 
         # Workaround name inconsistency with LG
         if vendor == 'lg':
